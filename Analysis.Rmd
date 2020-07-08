@@ -165,5 +165,3 @@ In this section the values estimated on the test data using the random forest al
 predictSubmission <- predict(modFitRF, testing, type="class")
 predictSubmission
 ```
-
-use_git_config(user.name = "Jane Doe", user.email = "jane@example.org")
